@@ -1280,6 +1280,7 @@ Kencham Vinay
 -[DavidOhanyan](https://github.com/DavidOhanyan)
 -[Maria Sui](https://github.com/msui51)
 -[Buhari Ahmed](https://github.com/makajeez)
+-[MasangoAnesu] (https://github.com/Mzukulukagogo)
 - T Mez
 - [Tri Phan] (https://github.com/MuroKouro)
 [Ani Nalbandyan](https://github.com/AniNalbandyan6)
